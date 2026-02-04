@@ -4,7 +4,7 @@ Daily monitoring for a list of companies using Google News RSS, with Telegram de
 
 ## Features
 - Google News RSS per company
-- 48-hour lookback (configurable)
+- 24-hour lookback (configurable)
 - Strict relevance filtering (company name + keyword in title, noise blocking)
 - Short summaries per item
 - Telegram delivery
