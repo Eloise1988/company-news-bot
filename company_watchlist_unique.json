@@ -118,7 +118,7 @@
     },
     {
       "id": 30,
-      "name": "Lockley Resources"
+      "name": "Locksley Resources"
     },
     {
       "id": 31,
@@ -207,7 +207,151 @@
     {
       "id": 52,
       "name": "Solmate Infrastructure (SLMT)"
+    },
+    {
+      "id": 53,
+      "name": "Mercury Systems"
+    },
+    {
+      "id": 54,
+      "name": "Teledyne Technologies"
+    },
+    {
+      "id": 55,
+      "name": "TTM Technologies"
+    },
+    {
+      "id": 56,
+      "name": "Vertical Aerospace"
+    },
+    {
+      "id": 57,
+      "name": "BigBear.ai"
+    },
+    {
+      "id": 58,
+      "name": "Textron"
+    },
+    {
+      "id": 59,
+      "name": "Venture Global LNG"
+    },
+    {
+      "id": 60,
+      "name": "Trilogy Metals"
+    },
+    {
+      "id": 61,
+      "name": "Cantor Equity Partners II"
+    },
+    {
+      "id": 62,
+      "name": "Kodiak AI"
+    },
+    {
+      "id": 63,
+      "name": "Johnson Controls"
+    },
+    {
+      "id": 64,
+      "name": "ABB Ltd"
+    },
+    {
+      "id": 65,
+      "name": "Vertiv Holdings"
+    },
+    {
+      "id": 66,
+      "name": "Asetek A/S"
+    },
+    {
+      "id": 67,
+      "name": "Carrier"
+    },
+    {
+      "id": 68,
+      "name": "Trane Technologies"
+    },
+    {
+      "id": 69,
+      "name": "Modine"
+    },
+    {
+      "id": 70,
+      "name": "Chemours"
+    },
+    {
+      "id": 71,
+      "name": "BYD Company ADR"
+    },
+    {
+      "id": 72,
+      "name": "3D Systems Corporation"
+    },
+    {
+      "id": 73,
+      "name": "Spire Global"
+    },
+    {
+      "id": 74,
+      "name": "Solid Power"
+    },
+    {
+      "id": 75,
+      "name": "Quantum Computing"
+    },
+    {
+      "id": 76,
+      "name": "Ocean Power Technologies"
+    },
+    {
+      "id": 77,
+      "name": "Syntec Optics"
+    },
+    {
+      "id": 78,
+      "name": "IonQ"
+    },
+    {
+      "id": 79,
+      "name": "Intuitive Machines"
+    },
+    {
+      "id": 80,
+      "name": "Uranium Energy Corp"
+    },
+    {
+      "id": 81,
+      "name": "BitMine Immersion Technologies"
+    },
+    {
+      "id": 82,
+      "name": "Firefly Aerospace"
+    },
+    {
+      "id": 83,
+      "name": "GigCapital7 Corp."
+    },
+    {
+      "id": 84,
+      "name": "Hadron Energy"
+    },
+    {
+      "id": 85,
+      "name": "enCore Energy"
+    },
+    {
+      "id": 86,
+      "name": "Anfield Energy"
+    },
+    {
+      "id": 87,
+      "name": "Velo3D"
+    },
+    {
+      "id": 88,
+      "name": "Westinghouse Electric Company"
     }
   ],
-  "count": 52
+  "count": 88
 }

@@ -165,10 +165,14 @@ def _handle_commands(token: str, chat_id: str, companies_path: str, state_path: 
             if not company:
                 _send_telegram_messages(token, chat_id, ["Please provide a company name, e.g. /add Amazon"])
                 continue
+            if "<" in company or ">" in company:
+                _send_telegram_messages(token, chat_id, ["Please provide a plain company name without < or >."])
+                continue
 
             key = company.lower()
             if key in names:
-                _send_telegram_messages(token, chat_id, [f"Already tracking: {names[key]}"])
+                safe_name = html.escape(names[key])
+                _send_telegram_messages(token, chat_id, [f"Already tracking: {safe_name}"])
                 continue
 
             companies.append({"id": next_id, "name": company})
@@ -177,7 +181,8 @@ def _handle_commands(token: str, chat_id: str, companies_path: str, state_path: 
             companies_data["companies"] = companies
             companies_data["count"] = len(companies)
             _save_json(companies_path, companies_data)
-            _send_telegram_messages(token, chat_id, [f"Added: {company}"])
+            safe_company = html.escape(company)
+            _send_telegram_messages(token, chat_id, [f"Added: {safe_company}"])
 
         elif text.lower().startswith("/list"):
             company_names = [c.get("name", "") for c in companies]
@@ -193,7 +198,7 @@ def _handle_commands(token: str, chat_id: str, companies_path: str, state_path: 
                 chat_id,
                 [
                     "Commands:\n"
-                    "/add <company> — add a company\n"
+                    "/add COMPANY — add a company\n"
                     "/list — list companies\n"
                     "/update — run now\n"
                     "/help — this help"
