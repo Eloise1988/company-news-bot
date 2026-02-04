@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.venv*/
+
+# Logs
+logs/
+*.log
+
+# Secrets / env
+*.env
+.env
+.env.*
+
+# State
+/data/
+
+# OS
+.DS_Store

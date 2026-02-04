@@ -1,0 +1,213 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Overture Life"
+    },
+    {
+      "id": 2,
+      "name": "Conceivable Life Sciences"
+    },
+    {
+      "id": 3,
+      "name": "Reflect Orbital"
+    },
+    {
+      "id": 4,
+      "name": "Whisper Aero"
+    },
+    {
+      "id": 5,
+      "name": "Eagle Energy Metals"
+    },
+    {
+      "id": 6,
+      "name": "Impulse Space"
+    },
+    {
+      "id": 7,
+      "name": "Maritime Launch Services"
+    },
+    {
+      "id": 8,
+      "name": "Natura Ressources"
+    },
+    {
+      "id": 9,
+      "name": "Standard Nuclear"
+    },
+    {
+      "id": 10,
+      "name": "Aalo Atomics"
+    },
+    {
+      "id": 11,
+      "name": "AeroVironment"
+    },
+    {
+      "id": 12,
+      "name": "Aetherflux"
+    },
+    {
+      "id": 13,
+      "name": "Albemarle"
+    },
+    {
+      "id": 14,
+      "name": "Antares Industries"
+    },
+    {
+      "id": 15,
+      "name": "Archer Aviation"
+    },
+    {
+      "id": 16,
+      "name": "Asp Isotopes"
+    },
+    {
+      "id": 17,
+      "name": "AstroForge"
+    },
+    {
+      "id": 18,
+      "name": "Atomic Alchemy"
+    },
+    {
+      "id": 19,
+      "name": "BWX Technologies"
+    },
+    {
+      "id": 20,
+      "name": "Cameco"
+    },
+    {
+      "id": 21,
+      "name": "Centrus Energy"
+    },
+    {
+      "id": 22,
+      "name": "Commonwealth Fusion Systems"
+    },
+    {
+      "id": 23,
+      "name": "Dateline Resources"
+    },
+    {
+      "id": 24,
+      "name": "Deep Fission"
+    },
+    {
+      "id": 25,
+      "name": "Draganfly"
+    },
+    {
+      "id": 26,
+      "name": "Ducommun"
+    },
+    {
+      "id": 27,
+      "name": "Energy Fuels"
+    },
+    {
+      "id": 28,
+      "name": "Kratos Defense"
+    },
+    {
+      "id": 29,
+      "name": "L3Harris Technologies"
+    },
+    {
+      "id": 30,
+      "name": "Lockley Resources"
+    },
+    {
+      "id": 31,
+      "name": "MP Materials"
+    },
+    {
+      "id": 32,
+      "name": "Myriad Uranium"
+    },
+    {
+      "id": 33,
+      "name": "Nano Nuclear Energy"
+    },
+    {
+      "id": 34,
+      "name": "NioCorp"
+    },
+    {
+      "id": 35,
+      "name": "Palantir"
+    },
+    {
+      "id": 36,
+      "name": "Prysmian"
+    },
+    {
+      "id": 37,
+      "name": "Radiant Industries Nuclear"
+    },
+    {
+      "id": 38,
+      "name": "Ramaco"
+    },
+    {
+      "id": 39,
+      "name": "Red Cat Holdings"
+    },
+    {
+      "id": 40,
+      "name": "Rocket Lab"
+    },
+    {
+      "id": 41,
+      "name": "Rolls-Royce SMR"
+    },
+    {
+      "id": 42,
+      "name": "Securitize RWA"
+    },
+    {
+      "id": 43,
+      "name": "Surf Air Mobility"
+    },
+    {
+      "id": 44,
+      "name": "TRISO-X"
+    },
+    {
+      "id": 45,
+      "name": "USA Rare Earth"
+    },
+    {
+      "id": 46,
+      "name": "Valar Atomics"
+    },
+    {
+      "id": 47,
+      "name": "Varda Space"
+    },
+    {
+      "id": 48,
+      "name": "Vertiport"
+    },
+    {
+      "id": 49,
+      "name": "Viasat"
+    },
+    {
+      "id": 50,
+      "name": "Synaptics Incorporated"
+    },
+    {
+      "id": 51,
+      "name": "Ambarella, Inc."
+    },
+    {
+      "id": 52,
+      "name": "Solmate Infrastructure (SLMT)"
+    }
+  ],
+  "count": 52
+}
